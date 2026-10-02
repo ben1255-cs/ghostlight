@@ -1,0 +1,7 @@
+numpy>=1.26
+opencv-python-headless>=4.8
+pillow>=10.1
+openai>=1.40
+tavily-python>=0.5
+pytest>=8
+# Optional, for GPU reconstruction on Nebius: torch (CUDA build)
